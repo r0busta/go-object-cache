@@ -1,2 +1,2 @@
-# go-object-cache
- A simple object cache
+# go-object-store
+ A simple object store
